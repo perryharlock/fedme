@@ -9,6 +9,7 @@ module.exports = {
 
     // FED image URLs
     things: [
+        'http://i.imgur.com/16VJ5wf.gif',
         'http://i.imgur.com/1IpgJ8j.jpg',
         'http://i.imgur.com/873UUyQ.jpg',
         'http://i.imgur.com/aZNXXDQ.jpg',
