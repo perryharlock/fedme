@@ -41,9 +41,12 @@ module.exports = {
         // Perry
         'http://i.imgur.com/16VJ5wf.gif',
         'http://kil.gr/sandbox/secret/fedbot/perrycheese.gif',
+        'http://i.imgur.com/iggvxTH.jpg',
+        'http://i.imgur.com/fzpsMDJ.jpg',
 
         // Rowan
-        'http://i.imgur.com/873UUyQ.jpg'
+        'http://i.imgur.com/873UUyQ.jpg',
+        'http://31.media.tumblr.com/63b3a025e8595bd8da7084d84753567b/tumblr_mqwdzzVM8u1sdi1syo1_1280.jpg'
 
     ]
 
